@@ -1,0 +1,1280 @@
+id,title,year,length,votes,rating,genre
+51,"'burbs, The",1989,101,7641,6.0,comedy
+112,10 Things I Hate About You,1999,97,19095,6.7,comedy
+156,12 Angry Men,1957,96,29278,8.7,drama
+173,13 Going On 30,2004,98,7859,6.4,comedy
+186,"13th Warrior, The",1999,102,14344,6.1,action
+197,15 Minutes,2001,120,10866,6.1,drama
+249,2 Days in the Valley,1996,104,5057,6.4,drama
+282,2001: A Space Odyssey,1968,156,64982,8.3,other
+287,2010,1984,116,7300,6.5,other
+297,21 Grams,2003,124,21857,8.0,drama
+326,25th Hour,2002,135,15788,7.8,drama
+333,28 Days,2000,103,7465,6.0,drama
+334,28 Days Later...,2002,113,24174,7.3,other
+404,"39 Steps, The",1935,86,7931,8.0,drama
+448,48 Hrs.,1982,96,8742,6.8,action
+472,50 First Dates,2004,99,13497,6.8,comedy
+480,"51st State, The",2001,92,6752,6.1,action
+534,8 Mile,2002,110,17900,6.8,drama
+537,8 femmes,2002,111,5503,7.1,comedy
+762,About Schmidt,2002,125,23279,7.3,comedy
+763,About a Boy,2002,101,18318,7.5,comedy
+781,Abre los ojos,1997,117,8087,7.8,drama
+802,Absolute Power,1997,121,7995,6.4,drama
+821,"Abyss, The",1989,171,21987,7.4,action
+855,Ace Ventura: Pet Detective,1994,86,20705,6.2,comedy
+966,Adaptation.,2002,114,25140,7.9,comedy
+968,Addams Family Values,1993,94,7756,6.1,comedy
+969,"Addams Family, The",1991,99,11549,6.4,comedy
+971,Addicted to Love,1997,100,5445,6.0,comedy
+1054,Adventures in Babysitting,1987,102,5363,6.3,comedy
+1058,"Adventures of Baron Munchausen, The",1988,125,7927,6.8,comedy
+1062,"Adventures of Buckaroo Banzai Across the 8th Dimension, The",1984,103,5036,6.1,comedy
+1093,"Adventures of Priscilla, Queen of the Desert, The",1994,104,7721,7.2,comedy
+1098,"Adventures of Robin Hood, The",1938,102,7359,8.2,action
+1192,"African Queen, The",1951,105,13765,8.1,comedy
+1220,After Hours,1985,96,5630,7.4,comedy
+1274,"Age of Innocence, The",1993,139,6049,7.1,drama
+1389,Air Force One,1997,124,26156,6.3,action
+1409,Airplane!,1980,88,23369,7.8,comedy
+1455,Akira,1988,124,14840,7.7,action
+1491,Aladdin,1992,90,22499,7.6,animation
+1586,Ali,2001,165,9294,6.4,drama
+1652,Alien,1979,116,63400,8.3,other
+1677,Alien: Resurrection,1997,116,24358,6.0,action
+1679,Aliens,1986,154,63961,8.3,action
+1693,Alive,1993,127,5786,6.7,action
+1702,All About Eve,1950,138,13038,8.5,drama
+1748,All Quiet on the Western Front,1930,147,6835,8.2,action
+1784,All the President's Men,1976,138,12724,8.0,drama
+1884,Almost Famous,2000,162,38648,8.0,comedy
+1912,Along Came a Spider,2001,104,9456,6.1,drama
+1986,Amadeus,1984,180,36955,8.3,drama
+2106,American Beauty,1999,121,109991,8.5,drama
+2144,American Graffiti,1973,110,12758,7.6,comedy
+2149,American History X,1998,119,59677,8.4,drama
+2178,American Pie,1999,95,41126,6.8,comedy
+2179,American Pie 2,2001,105,22752,6.3,comedy
+2181,"American President, The",1995,114,11834,6.9,comedy
+2182,American Psycho,2000,102,21639,6.8,drama
+2192,American Splendor,2003,101,8530,7.8,comedy
+2208,American Wedding,2003,103,13590,6.3,comedy
+2209,"American Werewolf in London, An",1981,92,8347,7.2,comedy
+2252,Amistad,1997,152,10543,7.0,drama
+2321,Amores perros,2000,153,15079,8.2,drama
+2391,Analyze This,1999,109,24521,6.6,comedy
+2429,Anchorman: The Legend of Ron Burgundy,2004,104,11553,6.5,comedy
+2520,Angel Heart,1987,113,8335,7.1,other
+2593,Anger Management,2003,106,14280,6.0,comedy
+2628,Animal House,1978,109,17609,7.5,comedy
+2702,Anna and the King,1999,148,6739,6.6,drama
+2728,Annie Hall,1977,93,21462,8.3,comedy
+2817,Antitrust,2001,108,7326,6.0,drama
+2838,Antz,1998,83,16312,7.0,animation
+2845,Any Given Sunday,1999,156,19531,6.4,drama
+2905,"Apartment, The",1960,125,11214,8.4,comedy
+2924,Apocalypse Now,1979,202,64785,8.5,action
+2927,Apollo 13,1995,140,41098,7.5,drama
+2988,Apt Pupil,1998,112,6728,6.4,drama
+3012,Arachnophobia,1990,103,8608,6.1,comedy
+3124,Arlington Road,1999,117,17189,7.1,drama
+3151,Army of Darkness,1993,96,22118,7.4,action
+3231,Artificial Intelligence: AI,2001,146,36623,6.8,drama
+3257,As Good as It Gets,1997,139,47441,7.7,comedy
+3466,Atlantis: The Lost Empire,2001,95,6323,6.4,action
+3613,Austin Powers in Goldmember,2002,94,22870,6.2,action
+3614,Austin Powers: International Man of Mystery,1997,94,33755,7.0,action
+3615,Austin Powers: The Spy Who Shagged Me,1999,95,37019,6.5,action
+3727,"Aviator, The",2004,170,16217,7.5,drama
+3751,Awakenings,1990,121,11835,7.4,drama
+3795,BASEketball,1998,103,7096,6.1,comedy
+3832,Babe,1995,89,16988,7.4,comedy
+3979,Back to the Future,1985,111,68647,8.1,action
+3980,Back to the Future Part II,1989,108,28547,7.0,comedy
+3981,Back to the Future Part III,1990,118,24682,6.7,comedy
+3989,Backdraft,1991,132,12637,6.6,action
+4027,Bad Boys,1995,118,15326,6.4,action
+4028,Bad Boys II,2003,145,13087,6.1,action
+4077,Bad Santa,2003,98,11189,7.2,comedy
+4080,Bad Taste,1987,86,7048,6.9,comedy
+4244,Bambi,1942,70,9197,7.5,animation
+4299,Bandits,2001,123,12382,6.7,comedy
+4477,Barry Lyndon,1975,184,12285,8.0,drama
+4486,Barton Fink,1991,116,10223,7.5,drama
+4503,Basic,2003,98,8370,6.2,drama
+4504,Basic Instinct,1992,128,19520,6.7,other
+4515,"Basketball Diaries, The",1995,102,6280,6.6,drama
+4557,Batman,1989,126,35927,7.4,action
+4560,Batman Returns,1992,126,23010,6.5,action
+4566,Batoru rowaiaru,2000,122,12138,7.9,action
+4777,Beautiful Girls,1996,112,7452,7.1,comedy
+4780,"Beautiful Mind, A",2001,135,43291,7.8,drama
+4794,Beauty and the Beast,1991,90,25672,7.8,animation
+4805,Beavis and Butt-Head Do America,1996,81,9491,6.2,animation
+4878,Beetle Juice,1988,92,20966,7.1,comedy
+4884,Before Sunrise,1995,105,9618,7.8,drama
+4885,Before Sunset,2004,80,8789,8.3,drama
+4913,Behind Enemy Lines,2001,106,10856,6.1,action
+4953,Being John Malkovich,1999,113,55079,7.9,comedy
+4957,Being There,1979,130,10521,8.0,comedy
+5099,Ben-Hur,1959,214,21031,8.1,action
+5101,Bend It Like Beckham,2002,115,14437,7.3,comedy
+5122,Benny & Joon,1993,98,7201,6.7,comedy
+5226,"Best Years of Our Lives, The",1946,172,6138,8.4,drama
+5227,Best in Show,2000,90,11790,7.5,comedy
+5271,Better Off Dead...,1985,97,8109,7.2,comedy
+5335,Beverly Hills Cop,1984,105,16360,7.1,action
+5447,Bicentennial Man,1999,132,8925,6.2,drama
+5470,Big,1988,104,18660,7.2,comedy
+5511,"Big Chill, The",1983,105,6401,7.1,comedy
+5535,Big Fish,2003,125,31525,8.1,comedy
+5567,"Big Lebowski, The",1998,117,50179,8.0,comedy
+5606,"Big Sleep, The",1946,116,9980,8.3,other
+5640,Big Trouble in Little China,1986,99,10803,6.7,action
+5692,Bill & Ted's Excellent Adventure,1989,90,12277,6.6,comedy
+5717,Billy Elliot,2000,110,16725,7.7,drama
+5723,Billy Madison,1995,89,11626,6.1,comedy
+5795,"Birdcage, The",1996,117,12429,6.5,comedy
+5805,"Birds, The",1963,119,20072,7.8,drama
+5818,Birthday Girl,2001,93,5340,6.1,comedy
+5940,Black Hawk Down,2001,142,32530,7.6,action
+5991,Black Rain,1989,125,5636,6.3,action
+6086,Blade,1998,110,24372,6.8,action
+6087,Blade II,2002,108,17139,6.6,action
+6088,Blade Runner,1982,117,74749,8.2,action
+6098,"Blair Witch Project, The",1999,86,39814,6.1,other
+6120,Blast from the Past,1999,112,9483,6.4,comedy
+6140,Blazing Saddles,1974,93,17166,7.7,comedy
+6337,Blood Simple.,1984,97,9684,7.7,drama
+6350,Blood Work,2002,110,5965,6.3,drama
+6444,Blow,2001,124,18670,7.1,drama
+6537,Blue Velvet,1986,120,18756,7.7,drama
+6557,"Blues Brothers, The",1980,148,28964,7.7,action
+6642,Body Heat,1981,113,5063,7.4,other
+6694,Boiler Room,2000,118,8586,6.8,drama
+6779,"Bone Collector, The",1999,118,17766,6.2,drama
+6808,Bonnie and Clyde,1967,111,12653,7.9,drama
+6837,Boogie Nights,1997,156,27380,7.6,drama
+6872,"Boondock Saints, The",1999,110,17935,7.7,action
+6878,"Boot, Das",1981,216,28920,8.5,drama
+6967,Born on the Fourth of July,1989,145,11480,7.0,drama
+7024,Bottle Rocket,1996,92,7286,7.4,comedy
+7061,Bound,1996,109,11911,7.5,romance
+7079,"Bourne Identity, The",2002,119,29871,7.3,action
+7080,"Bourne Supremacy, The",2004,108,19878,7.3,action
+7101,Bowfinger,1999,97,15000,6.4,comedy
+7104,Bowling for Columbine,2002,120,36747,8.5,comedy
+7174,Boys Don't Cry,1999,118,14456,7.6,drama
+7211,Boyz n the Hood,1991,107,10319,7.7,drama
+7229,Braindead,1992,97,11552,7.5,comedy
+7288,Braveheart,1995,177,92437,8.3,action
+7293,Brazil,1985,94,30735,8.0,comedy
+7308,Breakdown,1997,95,7099,6.7,action
+7312,"Breakfast Club, The",1985,97,24223,7.6,comedy
+7313,Breakfast at Tiffany's,1961,115,12246,7.7,comedy
+7339,Breaking the Waves,1996,158,10494,7.7,drama
+7422,"Bridge Too Far, A",1977,176,5527,7.0,action
+7427,"Bridge on the River Kwai, The",1957,161,22408,8.4,drama
+7433,"Bridges of Madison County, The",1995,135,7633,6.9,drama
+7436,Bridget Jones's Diary,2001,97,24791,7.0,comedy
+7481,Bring It On,2000,98,11784,6.1,comedy
+7491,Bringing Out the Dead,1999,121,13989,6.7,drama
+7493,Bringing Up Baby,1938,102,9250,8.2,comedy
+7505,Broadcast News,1987,133,5008,7.0,comedy
+7574,Bronenosets Potyomkin,1925,66,6042,8.2,drama
+7580,"Bronx Tale, A",1993,121,9175,7.5,drama
+7639,Bruce Almighty,2003,101,23905,6.4,comedy
+7691,Bubba Ho-tep,2002,92,7142,7.5,comedy
+7760,Buffalo '66,1998,110,6652,7.2,comedy
+7781,"Bug's Life, A",1998,96,23184,7.4,animation
+7813,Bull Durham,1988,108,8434,7.1,comedy
+7843,Bullets Over Broadway,1994,98,6685,7.4,comedy
+7850,Bullitt,1968,113,6191,7.3,action
+7861,Bulworth,1998,108,8277,6.9,comedy
+7897,"Buono, il brutto, il cattivo, Il",1966,180,30224,8.8,action
+8012,Butch Cassidy and the Sundance Kid,1969,110,20168,8.2,other
+8027,"Butterfly Effect, The",2004,120,22975,7.6,drama
+8078,C'era una volta il West,1968,158,17241,8.7,drama
+8117,Cabaret,1972,124,7176,7.8,drama
+8167,Caddyshack,1980,98,13453,7.1,comedy
+8419,Can't Hardly Wait,1998,101,8191,6.2,comedy
+8520,Cape Fear,1991,128,15585,7.1,drama
+8701,Carlito's Way,1993,145,13080,7.6,drama
+8788,Carrie,1976,98,11778,7.2,drama
+8882,Casablanca,1942,102,66030,8.8,drama
+8933,Casino,1995,176,27234,7.8,drama
+8956,Cast Away,2000,143,34580,7.3,drama
+9033,Catch Me If You Can,2002,141,39915,7.6,drama
+9160,"Cell, The",2000,109,16118,6.1,other
+9168,Cellular,2004,94,6182,6.4,action
+9209,Central do Brasil,1998,108,8980,7.9,drama
+9375,Changing Lanes,2002,99,12779,6.6,drama
+9406,Charade,1963,113,9046,8.1,comedy
+9416,Chariots of Fire,1981,123,6666,7.3,drama
+9512,Chasing Amy,1997,111,32141,7.6,comedy
+9694,Chicago,2002,113,34933,7.5,comedy
+9720,Chicken Run,2000,84,25099,7.4,animation
+9854,Chinatown,1974,131,25695,8.4,drama
+9904,Chocolat,2000,121,20031,7.3,comedy
+9975,Christine,1983,110,5666,6.0,drama
+9993,"Christmas Story, A",1983,93,19737,8.1,comedy
+9996,Christmas Vacation,1989,97,9977,6.9,comedy
+10014,"Chronicles of Riddick, The",2004,135,11438,6.2,action
+10091,Cidade de Deus,2002,135,25964,8.7,drama
+10092,"Cider House Rules, The",1999,126,18950,7.5,drama
+10125,Cinderella,1950,74,5596,7.3,animation
+10210,Citizen Kane,1941,119,61083,8.7,drama
+10228,City Lights,1931,87,7802,8.5,comedy
+10234,City Slickers,1991,112,9286,6.7,comedy
+10244,City of Angels,1998,114,15333,6.2,drama
+10269,"Civil Action, A",1998,112,6847,6.4,drama
+10358,Clear and Present Danger,1994,141,13025,6.8,action
+10374,Clerks.,1994,92,39927,7.9,comedy
+10379,"Client, The",1994,119,8340,6.4,drama
+10380,Cliffhanger,1993,112,12434,6.0,action
+10414,"Clockwork Orange, A",1971,137,65283,8.3,drama
+10422,Close Encounters of the Third Kind,1977,137,26304,7.7,drama
+10475,Clue,1985,97,8767,6.7,comedy
+10477,Clueless,1995,97,16521,6.7,comedy
+10532,Cocoon,1985,117,7694,6.6,comedy
+10602,Cold Mountain,2003,152,15712,7.4,drama
+10625,Collateral,2004,120,24499,7.7,drama
+10664,"Color Purple, The",1985,154,10599,7.6,drama
+10667,"Color of Money, The",1986,119,9095,6.8,drama
+10803,Coming to America,1988,116,13103,6.6,comedy
+10838,"Commitments, The",1991,118,6058,7.4,comedy
+10909,Con Air,1997,115,26642,6.3,action
+10914,Conan the Barbarian,1982,129,13624,6.5,action
+10966,Confessions of a Dangerous Mind,2002,113,11487,7.1,drama
+10984,Confidence,2003,97,6168,6.8,drama
+11047,Conspiracy Theory,1997,135,15470,6.4,drama
+11057,Constantine,2005,121,11633,6.4,action
+11063,Contact,1997,153,36390,7.3,drama
+11073,"Contender, The",2000,126,7023,6.9,drama
+11105,"Conversation, The",1974,113,10260,8.1,drama
+11121,"Cook the Thief His Wife & Her Lover, The",1989,98,5676,7.1,drama
+11136,Cool Hand Luke,1967,126,14167,8.2,drama
+11141,Cool Runnings,1993,98,7593,6.3,comedy
+11150,"Cooler, The",2003,101,6329,7.0,comedy
+11158,Cop Land,1997,116,12677,6.7,drama
+11187,Copycat,1995,123,7804,6.5,drama
+11328,"Count of Monte Cristo, The",2002,134,13907,7.4,action
+11382,Courage Under Fire,1996,117,8884,6.7,action
+11641,Crimes and Misdemeanors,1989,104,7302,7.9,comedy
+11670,Crimson Tide,1995,116,14033,7.1,action
+11704,Crocodile Dundee,1986,98,12034,6.4,comedy
+11774,"Crow, The",1994,98,20290,7.2,action
+11787,Cruel Intentions,1999,97,25634,6.5,drama
+11845,"Crying Game, The",1992,112,9524,7.3,drama
+11876,Cube,1997,90,16205,7.4,other
+11972,"Curse of the Jade Scorpion, The",2001,103,5846,6.8,comedy
+12050,Cyrano de Bergerac,1990,137,5148,7.5,drama
+12291,Dancer in the Dark,2000,140,15686,7.8,drama
+12296,Dances with Wolves,1990,236,28561,7.8,drama
+12368,Dangerous Liaisons,1988,119,12559,7.6,drama
+12467,Dark City,1998,100,23508,7.6,other
+12471,"Dark Crystal, The",1982,93,6531,6.9,other
+12541,Darkman,1990,96,6130,6.1,action
+12608,Dave,1993,110,10421,7.0,comedy
+12637,Dawn of the Dead,1978,139,12621,7.7,action
+12638,Dawn of the Dead,2004,109,16283,7.4,action
+12647,"Day After Tomorrow, The",2004,124,23749,6.3,action
+12679,Day of the Dead,1985,97,5053,6.5,drama
+12683,"Day of the Jackal, The",1973,145,5310,7.8,other
+12694,"Day the Earth Stood Still, The",1951,85,10148,8.1,drama
+12727,Dazed and Confused,1993,103,13926,7.3,comedy
+12753,Dead Again,1991,107,6817,7.1,romance
+12765,Dead Calm,1989,96,5527,6.9,other
+12793,Dead Man,1995,120,10097,7.6,other
+12795,Dead Man Walking,1995,122,16177,7.6,drama
+12817,Dead Poets Society,1989,128,43294,7.7,drama
+12834,"Dead Zone, The",1983,103,6338,7.2,drama
+13051,Death to Smoochy,2002,109,8003,6.3,comedy
+13114,Deconstructing Harry,1997,96,7342,7.1,comedy
+13155,"Deer Hunter, The",1978,183,28210,8.1,drama
+13198,Delicatessen,1991,95,11486,7.8,comedy
+13221,Deliverance,1972,109,14417,7.8,drama
+13271,Demolition Man,1993,115,15100,6.1,action
+13464,Desperado,1995,106,17929,6.8,action
+13645,"Devil's Advocate, The",1997,144,26904,7.0,drama
+13741,Dial M for Murder,1954,105,7989,7.8,other
+13762,Diamonds Are Forever,1971,120,8738,6.6,action
+13779,Diarios de motocicleta,2004,128,8479,8.0,drama
+13806,Dick,1999,94,5004,6.3,comedy
+13831,Die Another Day,2002,133,22136,6.4,action
+13832,Die Hard,1988,131,58870,8.0,action
+13834,Die Hard 2,1990,124,22987,6.7,action
+13836,Die Hard: With a Vengeance,1995,131,25258,7.0,action
+13843,Die xue shuang xiong,1989,104,9323,8.0,action
+13941,Dinosaur,2000,82,5839,6.3,animation
+13992,"Dirty Dozen, The",1967,145,7340,7.7,action
+13997,Dirty Harry,1971,99,11108,7.6,action
+14006,Dirty Pretty Things,2002,97,6274,7.6,drama
+14007,Dirty Rotten Scoundrels,1988,110,7993,6.9,comedy
+14192,Do the Right Thing,1989,120,9324,7.7,comedy
+14238,Doctor Zhivago,1965,200,10283,7.9,drama
+14260,Dodgeball: A True Underdog Story,2004,92,14584,6.6,comedy
+14269,Dog Day Afternoon,1975,124,14962,8.0,drama
+14285,Dog Soldiers,2002,104,5782,6.8,action
+14309,Dogma,1999,130,43391,7.3,comedy
+14328,Dogville,2003,135,14307,8.0,drama
+14368,"Dolce vita, La",1960,180,5285,8.0,drama
+14388,Dolores Claiborne,1995,132,5446,7.2,drama
+14442,Don Juan DeMarco,1995,97,6857,6.5,comedy
+14501,Don't Say a Word,2001,113,10098,6.2,drama
+14578,Donnie Brasco,1997,127,20029,7.6,drama
+14579,Donnie Darko,2001,133,51961,8.3,drama
+14609,"Doors, The",1991,140,10363,6.7,drama
+14697,Double Indemnity,1944,110,11592,8.5,drama
+14791,Down with Love,2003,101,7426,6.5,comedy
+14850,Dr. No,1962,110,11864,7.2,action
+14858,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,93,63471,8.7,comedy
+14866,Dracula,1992,128,19972,7.1,drama
+15052,Driving Miss Daisy,1989,99,8656,7.4,comedy
+15153,Duck Soup,1933,68,9870,8.3,comedy
+15235,Dumb & Dumber,1994,101,27713,6.6,comedy
+15242,Dumbo,1941,64,6828,7.4,animation
+15249,Dune,1984,190,16903,6.3,action
+15367,E.T. the Extra-Terrestrial,1982,120,44175,7.8,drama
+15449,Easy Rider,1969,94,10230,7.2,action
+15520,Ed Wood,1994,127,22612,8.0,comedy
+15549,"Edge, The",1997,117,6035,6.6,action
+15563,Edtv,1999,122,10085,6.2,comedy
+15573,Edward Scissorhands,1990,105,27017,7.7,drama
+15689,Election,1999,103,17521,7.4,comedy
+15711,Elephant,2003,81,9203,7.3,drama
+15716,"Elephant Man, The",1980,124,16422,8.2,drama
+15727,Elf,2003,95,10165,7.0,comedy
+15744,Elizabeth,1998,124,14733,7.6,drama
+15846,Emma,1996,121,6431,6.9,comedy
+15884,"Emperor's New Groove, The",2000,78,8532,7.4,animation
+15888,Empire Records,1995,107,8990,6.2,comedy
+15896,Empire of the Sun,1987,154,9963,7.5,drama
+16034,Enemy at the Gates,2001,131,19169,7.3,action
+16038,Enemy of the State,1998,131,23263,7.1,action
+16081,"English Patient, The",1996,160,25210,7.1,drama
+16122,Enter the Dragon,1973,99,8078,7.4,action
+16135,Entrapment,1999,113,18543,6.1,comedy
+16182,Equilibrium,2002,107,17579,7.6,action
+16195,Eraserhead,1977,89,7207,7.1,drama
+16216,Erin Brockovich,2000,130,24301,7.3,drama
+16315,Escape from Alcatraz,1979,112,6131,7.3,drama
+16323,Escape from New York,1981,99,9924,6.8,action
+16424,Eternal Sunshine of the Spotless Mind,2004,108,46240,8.6,comedy
+16454,EuroTrip,2004,90,8390,6.1,comedy
+16500,Ever After,1998,121,10250,7.0,comedy
+16543,Everyone Says I Love You,1996,101,7314,6.9,comedy
+16574,Evil Dead II,1987,85,15743,7.6,action
+16575,"Evil Dead, The",1981,86,14407,7.4,other
+16600,Evita,1996,134,8371,6.2,drama
+16623,Excalibur,1981,119,11867,7.4,other
+16643,Executive Decision,1996,134,7653,6.3,action
+16678,"Exorcist, The",1973,132,34162,7.9,drama
+16698,"Experiment, Das",2001,119,6601,7.8,drama
+16777,Eyes Wide Shut,1999,159,37868,7.0,drama
+16819,Fa yeung nin wa,2000,94,7380,8.0,drama
+16860,Face/Off,1997,133,37506,7.1,action
+16880,"Faculty, The",1998,104,13143,6.1,other
+16895,Fahrenheit 9/11,2004,122,34666,7.9,documentary
+16966,Fallen,1998,123,9367,6.7,other
+16976,Falling Down,1993,113,14536,7.3,comedy
+17035,"Family Man, The",2000,125,11220,6.5,comedy
+17094,Fantasia,1940,80,14925,7.8,animation
+17098,Fantasia/2000,1999,75,5353,7.4,animation
+17142,Far and Away,1992,140,8556,6.2,drama
+17144,Far from Heaven,2002,107,9167,7.7,drama
+17174,Fargo,1996,98,65597,8.2,drama
+17238,Fast Times at Ridgemont High,1982,90,10361,7.1,comedy
+17271,Fatal Attraction,1987,123,8541,6.7,drama
+17314,Father of the Bride,1991,105,8636,6.4,comedy
+17377,Fear and Loathing in Las Vegas,1998,118,21484,7.2,comedy
+17480,Femme Fatale,2002,114,6083,6.4,other
+17542,Ferris Bueller's Day Off,1986,102,32130,7.7,comedy
+17551,Festen,1998,105,11983,8.2,drama
+17589,"Few Good Men, A",1992,138,25237,7.5,drama
+17602,Fiddler on the Roof,1971,181,5893,7.6,drama
+17613,Field of Dreams,1989,107,21270,7.7,drama
+17625,Fierce Creatures,1997,93,5216,6.1,comedy
+17644,"Fifth Element, The",1997,126,55398,7.1,action
+17657,Fight Club,1999,139,112092,8.5,drama
+17800,Final Destination,2000,98,16504,6.6,other
+17801,Final Destination 2,2003,90,8481,6.3,other
+17807,Final Fantasy: The Spirits Within,2001,106,16451,6.5,action
+17836,Finding Forrester,2000,136,13439,7.3,drama
+17843,Finding Nemo,2003,100,41846,8.3,animation
+17845,Finding Neverland,2004,106,17715,8.1,drama
+17941,"Firm, The",1993,154,14708,6.6,drama
+17950,First Blood,1982,97,11956,6.8,action
+17999,"Fish Called Wanda, A",1988,108,25035,7.7,comedy
+18011,"Fisher King, The",1991,137,11952,7.4,comedy
+18151,Flatliners,1990,110,9830,6.3,other
+18195,Fletch,1985,94,7562,6.6,comedy
+18340,"Fly, The",1986,92,9914,7.0,drama
+18498,For Love of the Game,1999,137,5782,6.1,drama
+18520,For Your Eyes Only,1981,127,8061,6.7,action
+18552,Forbidden Planet,1956,98,6736,7.7,drama
+18615,Forever Young,1992,102,6453,6.0,romance
+18642,Forrest Gump,1994,142,89722,8.2,comedy
+18735,Four Rooms,1995,98,10675,6.0,comedy
+18742,Four Weddings and a Funeral,1994,117,17820,7.2,comedy
+18796,Frailty,2001,100,10551,7.4,drama
+18850,Frankenstein,1931,71,6045,7.9,drama
+18851,Frankenstein,1994,123,6941,6.0,drama
+18877,Frantic,1988,120,7040,6.6,other
+18923,Freaky Friday,2003,97,8052,6.9,comedy
+18932,Freddy Vs. Jason,2003,97,11109,6.1,action
+18989,"French Connection, The",1971,104,11783,7.8,action
+18993,French Kiss,1995,111,7653,6.2,comedy
+19008,Frequency,2000,118,15317,7.4,drama
+19029,Frida,2002,123,8614,7.5,drama
+19033,Friday,1995,91,7020,6.7,comedy
+19051,Fried Green Tomatoes,1991,130,10777,7.4,comedy
+19122,From Dusk Till Dawn,1996,108,28473,6.8,action
+19127,From Hell,2001,122,17292,6.8,other
+19132,From Here to Eternity,1953,118,5995,7.9,drama
+19142,From Russia with Love,1963,115,10291,7.3,action
+19243,"Fugitive, The",1993,130,48292,7.7,action
+19270,Full Metal Jacket,1987,116,47757,8.2,drama
+19271,"Full Monty, The",1997,91,22115,7.2,comedy
+19463,Galaxy Quest,1999,102,22341,7.2,comedy
+19486,Gallipoli,1981,110,6278,7.6,drama
+19520,"Game, The",1997,128,28099,7.6,other
+19550,Gandhi,1982,188,15879,8.0,drama
+19575,Gangs of New York,2002,166,34808,7.3,drama
+19621,Garden State,2004,109,23814,8.1,comedy
+19695,Gattaca,1997,101,26071,7.6,drama
+19809,"General's Daughter, The",1999,116,11128,6.1,drama
+19810,"General, The",1927,83,6644,8.4,action
+19963,Get Shorty,1995,105,14825,7.0,comedy
+20002,Gettysburg,1993,259,5191,7.5,drama
+20024,Ghost,1990,128,19005,6.8,drama
+20027,Ghost Busters,1984,107,29762,7.5,comedy
+20037,Ghost Dog: The Way of the Samurai,1999,116,13542,7.5,action
+20060,Ghost World,2000,111,17976,7.8,comedy
+20063,"Ghost and the Darkness, The",1996,109,8360,6.4,action
+20139,"Gift, The",2000,111,12440,6.8,drama
+20245,"Girl Next Door, The",2004,110,10452,6.8,comedy
+20297,Girl with a Pearl Earring,2003,100,6391,7.3,drama
+20302,"Girl, Interrupted",1999,127,16362,7.0,drama
+20391,Gladiator,2000,155,92495,8.0,action
+20430,Glengarry Glen Ross,1992,100,11485,7.8,drama
+20459,Glory,1989,122,21861,8.1,action
+20477,Go,1999,103,20663,7.4,comedy
+20545,"Godfather, The",1972,175,122755,9.1,drama
+20546,"Godfather: Part II, The",1974,200,71363,8.9,drama
+20547,"Godfather: Part III, The",1990,169,22385,7.3,drama
+20552,"Gods Must Be Crazy, The",1980,109,5581,6.8,action
+20554,Gods and Monsters,1998,105,9020,7.6,drama
+20649,"Gold Rush, The",1925,82,6429,8.3,comedy
+20691,GoldenEye,1995,130,22991,6.8,action
+20698,Goldfinger,1964,112,19754,7.8,action
+20750,Gone with the Wind,1939,233,28836,8.1,drama
+20754,Gong fu,2004,99,5299,7.9,action
+20777,Good Bye Lenin!,2003,121,9334,7.8,comedy
+20789,"Good Girl, The",2002,93,8254,6.9,comedy
+20809,"Good Morning, Vietnam",1987,119,13823,7.1,comedy
+20835,Good Will Hunting,1997,126,60858,7.8,drama
+20873,Goodfellas,1990,145,68219,8.6,drama
+20893,"Goonies, The",1985,114,18895,7.2,comedy
+20939,Gosford Park,2001,137,16831,7.3,drama
+20986,"Graduate, The",1967,105,27555,8.2,comedy
+21032,"Grand bleu, Le",1988,119,8055,7.4,drama
+21061,"Grande illusion, La",1937,114,5020,8.3,drama
+21098,"Grapes of Wrath, The",1940,128,7855,8.2,drama
+21136,Grease,1978,110,22214,6.8,comedy
+21167,"Great Dictator, The",1940,124,10465,8.4,comedy
+21169,"Great Escape, The",1963,172,20075,8.3,action
+21173,Great Expectations,1998,111,8139,6.4,drama
+21261,Green Card,1990,107,5175,6.0,comedy
+21285,"Green Mile, The",1999,188,60142,8.1,drama
+21313,Gremlins,1984,106,15044,6.8,action
+21382,Grosse Pointe Blank,1997,107,20400,7.4,comedy
+21393,Groundhog Day,1993,101,44819,8.0,comedy
+21412,Grumpy Old Men,1993,103,5857,6.7,comedy
+21614,"Guns of Navarone, The",1961,156,5157,7.6,action
+21721,Hable con ella,2002,112,12609,8.1,drama
+21757,"Haine, La",1995,96,5714,7.8,drama
+21799,Half Baked,1998,73,6119,6.1,comedy
+21829,Halloween,1978,101,19248,7.7,other
+21865,Hamlet,1996,242,10065,7.7,drama
+21897,"Hand That Rocks the Cradle, The",1992,110,5565,6.2,drama
+21957,Hannah and Her Sisters,1986,106,7597,7.8,comedy
+21959,Hannibal,2001,133,28876,6.2,other
+21990,Happiness,1998,134,11737,7.7,comedy
+22012,Happy Gilmore,1996,92,17746,6.8,comedy
+22064,"Hard Day's Night, A",1964,87,6314,7.7,comedy
+22166,Harold & Kumar Go to White Castle,2004,90,8376,7.1,comedy
+22168,Harold and Maude,1971,91,9173,7.9,comedy
+22186,Harry Potter and the Chamber of Secrets,2002,152,38394,7.3,other
+22187,Harry Potter and the Prisoner of Azkaban,2004,141,24973,7.8,other
+22188,Harry Potter and the Sorcerer's Stone,2001,152,46741,7.2,other
+22199,Hart's War,2002,125,6368,6.2,drama
+22211,Harvey,1950,104,7879,8.1,comedy
+22438,Heartbreakers,2001,110,8037,6.2,comedy
+22448,Hearts in Atlantis,2001,101,6577,6.7,drama
+22460,Heat,1995,188,44588,7.9,action
+22470,Heathers,1989,102,11110,7.4,comedy
+22500,Heavenly Creatures,1994,108,11453,7.7,drama
+22528,Hedwig and the Angry Inch,2001,93,6072,7.7,comedy
+22643,Hellboy,2004,132,15565,6.7,action
+22674,Hellraiser,1987,89,6815,6.5,other
+22733,Henry V,1989,137,8241,7.9,action
+22778,Hercules,1997,92,5279,6.6,animation
+22926,Hidalgo,2004,136,7328,6.6,action
+22975,High Crimes,2002,115,6043,6.1,drama
+22979,High Fidelity,2000,113,29704,7.6,comedy
+22989,High Noon,1952,85,12465,8.3,other
+23043,Highlander,1986,116,18146,7.1,action
+23172,His Girl Friday,1940,92,6667,8.2,comedy
+23232,History of the World: Part I,1981,97,5640,6.4,comedy
+23250,Hitch,2005,118,7554,6.8,comedy
+23258,"Hitchhiker's Guide to the Galaxy, The",2005,110,7644,6.9,comedy
+23371,Holes,2003,117,5235,7.2,comedy
+23499,Home Alone,1990,103,21670,6.4,comedy
+23709,Hoosiers,1986,115,6350,7.5,drama
+23781,"Horse Whisperer, The",1998,170,6744,6.4,drama
+23866,Hot Shots!,1991,84,10637,6.2,action
+23891,Hotaru no haka,1988,85,6886,8.3,animation
+23912,Hotel Rwanda,2004,121,8328,8.5,drama
+23951,"Hours, The",2002,114,16692,7.6,drama
+24005,House of Sand and Fog,2003,126,8164,7.8,drama
+24118,How to Lose a Guy in 10 Days,2003,116,9257,6.1,comedy
+24154,Howards End,1992,140,5098,7.4,drama
+24212,"Hudsucker Proxy, The",1994,111,12903,7.4,comedy
+24234,Hulk,2003,138,20710,6.1,action
+24280,"Hunchback of Notre Dame, The",1996,91,6093,6.5,animation
+24305,"Hunt for Red October, The",1990,134,26666,7.6,action
+24349,"Hurricane, The",1999,145,12445,7.3,drama
+24369,"Hustler, The",1961,134,8220,8.2,drama
+24413,I Am Sam,2001,132,9945,7.2,drama
+24466,I Heart Huckabees,2004,106,7262,7.0,comedy
+24692,"I, Robot",2004,115,22330,7.0,action
+24720,Ice Age,2002,81,22302,7.3,animation
+24734,"Ice Storm, The",1997,112,13115,7.5,drama
+24779,Identity,2003,90,18747,7.3,drama
+24840,Igby Goes Down,2002,99,7958,7.1,comedy
+25019,In & Out,1997,92,10352,6.2,comedy
+25022,In America,2002,105,8371,8.1,drama
+25132,In the Bedroom,2001,130,10177,7.4,drama
+25150,In the Heat of the Night,1967,109,6752,8.0,drama
+25156,In the Line of Fire,1993,138,12923,7.3,drama
+25164,In the Name of the Father,1993,133,10611,7.8,drama
+25250,"Incredibles, The",2004,121,30749,8.3,action
+25272,Independence Day,1996,153,61831,6.1,action
+25292,Indiana Jones and the Last Crusade,1989,127,61583,8.1,action
+25293,Indiana Jones and the Temple of Doom,1984,118,34880,7.2,action
+25392,Innerspace,1987,120,7354,6.4,action
+25464,"Insider, The",1999,157,28780,8.0,drama
+25474,Insomnia,2002,118,22235,7.3,drama
+25494,Instinct,1999,126,6298,6.1,drama
+25550,Interview with the Vampire: The Vampire Chronicles,1994,123,26698,7.2,drama
+25583,Intolerable Cruelty,2003,100,11967,6.6,comedy
+25624,Invasion of the Body Snatchers,1956,80,5286,7.8,other
+25743,"Iron Giant, The",1999,86,15151,7.9,animation
+25866,It Could Happen to You,1994,101,5005,6.2,comedy
+25872,It Happened One Night,1934,105,7924,8.3,comedy
+25958,It's a Mad Mad Mad Mad World,1963,192,5891,7.2,action
+25962,It's a Wonderful Life,1946,118,41199,8.6,drama
+25977,"Italian Job, The",2003,111,18496,6.9,action
+26048,JFK,1991,206,26456,7.8,drama
+26098,Jackass: The Movie,2002,87,8893,6.1,comedy
+26102,Jackie Brown,1997,154,28891,7.5,drama
+26116,Jacob's Ladder,1990,115,8901,7.3,drama
+26261,Jaws,1975,130,46978,8.2,other
+26269,Jay and Silent Bob Strike Back,2001,104,24211,6.9,comedy
+26310,Jean de Florette,1986,120,5826,8.0,drama
+26378,"Jerk, The",1979,94,6715,6.8,comedy
+26383,Jerry Maguire,1996,139,34623,7.3,comedy
+26393,Jersey Girl,2004,102,6853,6.4,comedy
+26644,John Q,2002,116,8952,6.4,drama
+26837,Joy Ride,2001,97,8132,6.6,other
+26963,Jumanji,1995,104,14874,6.0,action
+26996,"Jungle Book, The",1967,78,9027,7.5,animation
+27052,Jurassic Park,1993,127,57473,7.4,action
+27148,K-19: The Widowmaker,2002,140,8292,6.6,drama
+27150,K-PAX,2001,120,17235,7.2,drama
+27255,Kalifornia,1993,118,8113,6.6,other
+27377,"Karate Kid, The",1984,126,10783,6.6,drama
+27430,Kate & Leopold,2001,123,8060,6.3,comedy
+27519,Keeping the Faith,2000,128,11351,6.8,comedy
+27542,Kelly's Heroes,1970,144,5325,7.3,action
+27584,Key Largo,1948,101,5085,7.8,drama
+27681,"Kid, The",2000,104,5418,6.1,comedy
+27695,Kids,1995,91,9099,6.6,drama
+27719,Kill Bill: Vol. 1,2003,111,65026,8.3,action
+27720,Kill Bill: Vol. 2,2004,136,44189,8.3,action
+27796,"Killing Fields, The",1984,141,9575,7.9,drama
+27821,"Killing, The",1956,85,6980,8.1,drama
+27852,King Arthur,2004,140,14272,6.0,action
+27863,King Kong,1933,100,10301,7.9,other
+27891,"King of Comedy, The",1983,109,6189,7.5,comedy
+27941,Kingdom of Heaven,2005,145,6498,7.0,action
+27945,Kingpin,1996,117,10643,6.6,comedy
+28023,Kiss of the Dragon,2001,98,7887,6.2,action
+28032,Kiss the Girls,1997,111,9041,6.4,drama
+28140,"Knight's Tale, A",2001,132,15006,6.5,action
+28378,Kramer vs. Kramer,1979,105,7587,7.5,drama
+28602,L.A. Confidential,1997,138,69600,8.4,drama
+28607,L.A. Story,1991,95,7505,6.8,comedy
+28645,Labyrinth,1986,101,12661,7.0,other
+28654,Ladder 49,2004,115,5583,6.5,action
+28682,Ladri di biciclette,1948,93,7381,8.4,drama
+28747,Lady and the Tramp,1955,75,6952,7.4,animation
+28787,Ladyhawke,1985,121,7090,6.8,romance
+28790,"Ladykillers, The",2004,104,10580,6.4,comedy
+28903,Lantana,2001,121,5421,7.6,drama
+28950,Lashou shentan,1992,131,6568,7.9,action
+28971,"Last Boy Scout, The",1991,96,10044,6.4,action
+28978,"Last Castle, The",2001,131,7233,6.4,action
+29005,"Last Emperor, The",1987,219,9507,7.7,drama
+29070,"Last Picture Show, The",1971,118,5340,8.0,drama
+29099,"Last Samurai, The",2003,154,31668,7.9,action
+29123,"Last Temptation of Christ, The",1988,164,8074,7.5,drama
+29165,"Last of the Mohicans, The",1992,117,15293,7.5,drama
+29287,Lawrence of Arabia,1962,227,31230,8.6,drama
+29323,"League of Their Own, A",1992,128,14318,6.9,comedy
+29353,Leaving Las Vegas,1995,111,18027,7.5,drama
+29394,Legally Blonde,2001,96,17572,6.4,comedy
+29397,Legend,1985,89,7744,6.1,romance
+29399,"Legend of Bagger Vance, The",2000,126,7123,6.4,comedy
+29439,Legends of the Fall,1994,133,13327,6.7,drama
+29489,Lemony Snicket's A Series of Unfortunate Events,2004,108,8402,6.7,comedy
+29631,Lethal Weapon,1987,117,20041,7.5,action
+29632,Lethal Weapon 2,1989,118,14997,6.9,action
+29633,Lethal Weapon 3,1992,121,13780,6.3,action
+29634,Lethal Weapon 4,1998,127,17758,6.3,action
+29732,Liar Liar,1997,86,22969,6.5,comedy
+29772,Licence to Kill,1989,133,8523,6.2,action
+29823,"Life Aquatic with Steve Zissou, The",2004,118,9170,7.3,comedy
+29834,"Life Less Ordinary, A",1997,103,8209,6.4,comedy
+29852,Life as a House,2001,127,7696,7.5,comedy
+29859,Life of Brian,1979,94,33325,8.1,comedy
+29860,"Life of David Gale, The",2003,130,10580,7.1,drama
+29984,Lilo & Stitch,2002,86,10944,7.3,animation
+29999,"Limey, The",1999,89,7732,7.2,drama
+30040,"Lion King, The",1994,89,32924,7.8,animation
+30046,"Lion in Winter, The",1968,137,5871,8.1,drama
+30118,Little Big Man,1970,149,6385,7.7,comedy
+30196,"Little Mermaid, The",1989,83,12681,7.3,animation
+30247,Little Shop of Horrors,1986,94,8911,6.4,comedy
+30273,Little Women,1994,115,7008,7.1,drama
+30301,Live and Let Die,1973,121,8022,6.6,action
+30312,"Living Daylights, The",1987,130,7495,6.4,action
+30393,"Lock, Stock and Two Smoking Barrels",1998,126,34293,7.9,comedy
+30413,Logan's Run,1976,120,5441,6.5,action
+30429,Lola rennt,1998,80,32791,8.2,drama
+30432,Lolita,1962,152,9150,7.6,comedy
+30433,Lolita,1997,137,5757,6.8,drama
+30468,Lone Star,1996,135,8518,7.7,drama
+30524,"Long Kiss Goodnight, The",1996,120,12516,6.5,action
+30573,"Longest Day, The",1962,180,6517,7.7,action
+30658,"Lord of the Rings: The Fellowship of the Ring, The",2001,208,157608,8.8,action
+30659,"Lord of the Rings: The Return of the King, The",2003,251,103631,9.0,action
+30660,"Lord of the Rings: The Two Towers, The",2002,223,114797,8.8,action
+30701,"Lost Boys, The",1987,97,11294,6.7,comedy
+30713,Lost Highway,1997,135,15936,7.3,drama
+30757,Lost in Translation,2003,102,42450,8.0,comedy
+30822,Love Actually,2003,129,21918,7.7,comedy
+31293,M,1931,99,12053,8.5,other
+31307,MASH,1970,112,14829,7.8,comedy
+31447,Mad Max,1979,93,11542,6.8,action
+31448,Mad Max 2,1981,94,12091,7.4,action
+31641,"Magnificent Seven, The",1960,128,10058,7.8,drama
+31650,Magnolia,1999,188,45992,8.0,drama
+31720,"Majestic, The",2001,156,8649,6.7,drama
+31724,Major League,1989,107,8078,6.7,comedy
+31806,Malcolm X,1992,202,6873,7.5,drama
+31846,Mallrats,1995,94,22837,7.1,comedy
+31859,"Maltese Falcon, The",1941,101,19444,8.4,other
+31962,"Man Who Knew Too Much, The",1956,120,5388,7.4,drama
+31975,"Man Who Shot Liberty Valance, The",1962,123,7281,8.2,other
+31983,"Man Who Wasn't There, The",2001,118,17028,7.7,comedy
+31986,"Man Who Would Be King, The",1975,129,8035,7.9,other
+31992,"Man Without a Face, The",1993,114,5055,6.4,drama
+32040,"Man in the Iron Mask, The",1998,132,11127,6.0,action
+32071,Man on Fire,2004,146,14358,7.4,action
+32077,Man on the Moon,1999,118,19826,7.3,comedy
+32101,"Man with the Golden Gun, The",1974,125,7425,6.4,action
+32124,"Manchurian Candidate, The",1962,126,14232,8.4,drama
+32125,"Manchurian Candidate, The",2004,129,9896,6.7,other
+32159,Manhattan,1979,96,12391,8.2,comedy
+32166,Manhattan Murder Mystery,1993,104,5044,7.3,comedy
+32171,Manhunter,1986,124,7272,7.2,drama
+32292,Marathon Man,1976,125,5907,7.4,other
+32365,"Mariachi, El",1992,81,6817,7.0,action
+32493,Mars Attacks!,1996,106,27363,6.1,action
+32547,Mary Poppins,1964,140,13909,7.6,animation
+32582,"Mask of Zorro, The",1998,136,18220,6.8,action
+32585,"Mask, The",1994,97,21533,6.4,action
+32635,Master and Commander: The Far Side of the World,2003,138,21328,7.5,action
+32670,Matchstick Men,2003,120,13684,7.4,comedy
+32708,"Matrix Reloaded, The",2003,138,57225,7.1,action
+32709,"Matrix Revolutions, The",2003,125,40058,6.3,action
+32710,"Matrix, The",1999,136,143853,8.5,action
+32742,Maverick,1994,127,13659,6.7,comedy
+32846,"Me, Myself & Irene",2000,116,21305,6.0,comedy
+32853,Mean Girls,2004,97,11591,7.0,comedy
+32860,Mean Streets,1973,107,8008,7.5,drama
+32863,"Meaning of Life, The",1983,112,12351,7.3,comedy
+32914,Meet Joe Black,1998,178,16796,6.6,drama
+32932,Meet the Fockers,2004,115,11950,6.5,comedy
+32936,Meet the Parents,2000,108,30804,7.0,comedy
+33034,Memento,2000,113,90317,8.7,drama
+33077,Men in Black,1997,98,53231,6.8,action
+33088,Men of Honor,2000,129,9684,6.6,drama
+33236,"Messenger: The Story of Joan of Arc, The",1999,148,10476,6.2,drama
+33279,Metropolis,1927,117,11988,8.4,drama
+33305,"Mexican, The",2001,123,13935,6.0,comedy
+33363,Michael Collins,1996,133,5009,6.8,drama
+33443,Midnight Cowboy,1969,113,13091,7.9,drama
+33448,Midnight Express,1978,121,7617,7.6,drama
+33465,Midnight Run,1988,126,9196,7.5,action
+33476,Midnight in the Garden of Good and Evil,1997,155,8517,6.4,drama
+33509,Mighty Aphrodite,1995,95,7083,7.0,comedy
+33527,"Mighty Wind, A",2003,91,5941,7.3,comedy
+33605,Miller's Crossing,1990,115,14575,8.0,drama
+33609,Million Dollar Baby,2004,132,20195,8.3,drama
+33727,Minority Report,2002,145,51199,7.8,action
+33745,Miracle,2004,135,5785,7.7,drama
+33764,Miracle on 34th Street,1947,96,5677,7.9,comedy
+33820,Misery,1990,107,13120,7.5,drama
+33838,Miss Congeniality,2000,109,16235,6.2,comedy
+33899,"Mission, The",1986,126,6910,7.3,drama
+33901,Mission: Impossible,1996,110,33496,6.6,action
+33913,Mississippi Burning,1988,128,8084,7.6,drama
+34038,Modern Times,1936,87,10326,8.5,comedy
+34153,Mona Lisa Smile,2003,117,6838,6.1,comedy
+34250,Mononoke-hime,1997,134,19350,8.3,action
+34275,Monsoon Wedding,2001,114,5241,7.4,drama
+34278,Monster,2003,109,12306,7.4,drama
+34299,Monster's Ball,2001,112,15037,7.3,drama
+34306,"Monsters, Inc.",2001,92,38712,8.0,animation
+34339,Monty Python and the Holy Grail,1975,91,60565,8.4,comedy
+34394,Moonstruck,1987,102,6644,7.1,comedy
+34603,"Mothman Prophecies, The",2002,119,11073,6.5,other
+34626,Moulin Rouge!,2001,127,47689,7.7,drama
+34749,Mr. Holland's Opus,1995,143,9273,7.1,drama
+34797,Mr. Smith Goes to Washington,1939,129,11565,8.4,comedy
+34826,Mrs. Doubtfire,1993,125,19744,6.4,comedy
+34852,Much Ado About Nothing,1993,111,12491,7.5,comedy
+34917,Mulan,1998,88,11192,7.2,animation
+34926,Mulholland Dr.,2001,147,35504,7.9,drama
+34952,"Mummy Returns, The",2001,130,23551,6.1,action
+34967,"Mummy, The",1999,124,36216,6.5,action
+34987,"Muppet Movie, The",1979,95,5890,7.3,comedy
+35030,Murder by Numbers,2002,120,8358,6.0,other
+35072,Muriel's Wedding,1994,106,6685,7.1,comedy
+35195,My Best Friend's Wedding,1997,105,16648,6.4,comedy
+35197,My Big Fat Greek Wedding,2002,95,21675,6.9,comedy
+35228,My Cousin Vinny,1992,120,10877,7.2,comedy
+35246,My Fair Lady,1964,170,12721,7.8,comedy
+35287,My Girl,1991,102,5591,6.3,comedy
+35302,My Left Foot,1989,98,5011,7.6,drama
+35334,My Own Private Idaho,1991,102,5619,6.7,drama
+35434,"Mystery, Alaska",1999,119,5440,6.4,comedy
+35439,Mystic River,2003,137,28969,8.0,drama
+35581,"Naked Gun 2 1/2: The Smell of Fear, The",1991,85,9833,6.3,comedy
+35583,"Naked Gun: From the Files of Police Squad!, The",1988,85,13010,7.4,comedy
+35625,"Name der Rose, Der",1986,130,11654,7.7,drama
+35668,Napoleon Dynamite,2004,86,17524,7.2,comedy
+35681,Narc,2002,105,7185,7.3,drama
+35743,National Treasure,2004,131,12361,6.6,action
+35764,Natural Born Killers,1994,122,25596,6.6,action
+35771,"Natural, The",1984,134,7353,7.4,drama
+35892,"Negotiator, The",1998,139,19100,7.2,action
+35921,Nell,1994,113,5752,6.3,drama
+35987,Network,1976,121,9501,8.0,drama
+36028,Never Say Never Again,1983,121,7537,6.1,action
+36233,Nick of Time,1995,90,5125,6.2,drama
+36389,"Night at the Opera, A",1935,93,6008,8.1,comedy
+36428,"Night of the Hunter, The",1955,93,7543,8.2,drama
+36434,Night of the Living Dead,1968,90,11590,7.6,other
+36450,Night on Earth,1991,129,5339,7.5,comedy
+36479,"Nightmare Before Christmas, The",1993,76,19646,7.8,animation
+36487,"Nightmare On Elm Street, A",1984,91,12590,7.1,other
+36516,Nikita,1990,112,10867,7.6,other
+36580,"Ninth Gate, The",1999,133,16291,6.4,other
+36613,Nixon,1995,212,5837,6.8,drama
+36661,No Man's Land,2001,98,7184,7.9,comedy
+36732,No Way Out,1987,114,5814,7.0,drama
+36907,North by Northwest,1959,136,35648,8.6,other
+36945,"Nosferatu, eine Symphonie des Grauens",1922,92,8404,8.1,other
+36987,"Notebook, The",2004,123,8830,7.8,drama
+37012,Nothing to Lose,1997,98,5606,6.5,action
+37013,Notorious,1946,101,10637,8.3,romance
+37037,Notting Hill,1999,124,27285,7.0,comedy
+37188,Nuovo cinema Paradiso,1989,170,13999,8.4,drama
+37194,Nurse Betty,2000,110,10441,6.6,comedy
+37231,"O Brother, Where Art Thou?",2000,106,37961,7.8,comedy
+37324,Ocean's Eleven,2001,116,44662,7.5,comedy
+37325,Ocean's Twelve,2004,125,14797,6.0,comedy
+37339,October Sky,1999,108,12847,7.7,drama
+37345,Octopussy,1983,131,8331,6.4,action
+37412,Of Mice and Men,1992,115,5356,7.5,drama
+37445,Office Space,1999,89,26134,7.7,comedy
+37451,"Officer and a Gentleman, An",1982,122,7076,6.8,drama
+37614,Old School,2003,92,14283,6.7,comedy
+37625,Oldboy,2003,120,8983,8.4,action
+37708,"Omen, The",1976,107,7895,7.3,drama
+37724,On Her Majesty's Secret Service,1969,140,7219,6.7,action
+37794,On the Waterfront,1954,108,12803,8.4,drama
+37818,Once Upon a Time in America,1984,227,19292,8.2,drama
+37819,Once Upon a Time in Mexico,2003,102,14732,6.0,action
+37824,Once Were Warriors,1994,103,6240,7.9,drama
+37874,One Fine Day,1996,108,6522,6.2,comedy
+37876,One Flew Over the Cuckoo's Nest,1975,133,70234,8.7,drama
+37891,One Hour Photo,2002,96,17130,7.1,drama
+37894,One Hundred and One Dalmatians,1961,79,5942,7.1,animation
+37932,One Night at McCool's,2001,93,6893,6.2,comedy
+38061,Open Range,2003,139,8799,7.5,drama
+38066,Open Water,2003,79,7204,6.1,drama
+38136,"Opposite of Sex, The",1998,105,7404,6.7,comedy
+38155,Orange County,2002,82,8526,6.1,comedy
+38182,Ordinary People,1980,124,6785,7.9,drama
+38349,"Others, The",2001,104,36914,7.8,drama
+38455,Out of Africa,1985,160,6797,6.9,drama
+38473,Out of Sight,1998,123,18776,7.3,comedy
+38505,Outbreak,1995,127,13796,6.4,drama
+38525,"Outlaw Josey Wales, The",1976,135,7388,7.7,drama
+38553,"Outsiders, The",1983,91,7125,6.8,drama
+38573,Overboard,1987,112,5150,6.1,comedy
+38683,"Pacte des loups, Le",2001,152,12958,7.0,action
+38852,Panic Room,2002,113,24302,7.0,drama
+38930,Papillon,1973,150,9553,7.8,drama
+39042,Parenthood,1989,125,7638,7.0,comedy
+39082,"Paris, Texas",1984,147,5226,7.6,drama
+39243,"Passion of the Christ, The",2004,127,34046,7.4,drama
+39282,Patch Adams,1998,115,12110,6.1,comedy
+39295,Paths of Glory,1957,87,14391,8.6,drama
+39307,Patriot Games,1992,117,12751,6.8,action
+39310,"Patriot, The",2000,164,29665,6.8,action
+39328,Patton,1970,172,14351,8.2,drama
+39370,Pay It Forward,2000,123,13531,6.7,drama
+39376,Payback,1999,100,18252,6.8,other
+39377,Paycheck,2003,119,10383,6.1,action
+39445,Pee-wee's Big Adventure,1985,90,7552,6.7,comedy
+39460,Peggy Sue Got Married,1986,104,5797,6.3,comedy
+39467,"Pelican Brief, The",1993,141,10119,6.3,drama
+39540,"People vs. Larry Flynt, The",1996,129,12347,7.2,comedy
+39566,Per un pugno di dollari,1964,99,8998,7.8,action
+39600,"Perfect Murder, A",1998,108,9728,6.4,other
+39608,"Perfect Storm, The",2000,130,24946,6.2,action
+39622,"Perfect World, A",1993,138,8310,7.0,drama
+39729,Peter Pan,2003,113,5596,7.2,action
+39851,"Phantom of the Opera, The",2004,143,11283,7.2,drama
+39873,Phenomenon,1996,123,12075,6.3,drama
+39878,Philadelphia,1993,125,17861,7.5,drama
+39881,"Philadelphia Story, The",1940,112,10536,8.2,comedy
+39897,Phone Booth,2002,81,21075,7.3,other
+39915,Pi,1998,84,19431,7.5,other
+39925,"Pianist, The",2002,150,30467,8.5,drama
+39929,"Piano, The",1993,121,12394,7.4,drama
+40110,Pink Floyd The Wall,1982,95,9567,7.5,drama
+40129,"Pink Panther, The",1963,113,5953,7.2,comedy
+40161,Pinocchio,1940,88,6805,7.7,animation
+40210,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,60812,8.0,action
+40251,Pitch Black,2000,112,18522,6.7,other
+40322,"Planes, Trains & Automobiles",1987,93,11626,7.3,comedy
+40329,Planet of the Apes,1968,107,20516,7.9,action
+40360,Platoon,1986,120,35210,8.1,action
+40385,"Player, The",1992,124,13647,7.7,comedy
+40421,Pleasantville,1998,124,22561,7.5,comedy
+40447,"Pledge, The",2001,123,9852,6.9,drama
+40563,Point Break,1991,120,11180,6.5,action
+40657,Poltergeist,1982,114,11575,7.3,other
+40875,"Poseidon Adventure, The",1972,117,5591,6.8,action
+40916,"Postino, Il",1994,108,8342,7.6,comedy
+41057,Predator,1987,107,25254,7.4,action
+41134,Presumed Innocent,1990,127,5608,6.8,drama
+41153,Pretty Woman,1990,125,23316,6.6,comedy
+41155,Pretty in Pink,1986,96,6031,6.3,comedy
+41205,Primal Fear,1996,129,12467,7.5,drama
+41208,Primary Colors,1998,143,7756,6.8,comedy
+41256,"Prince of Egypt, The",1998,99,9212,6.9,animation
+41272,"Princess Bride, The",1987,98,53946,8.2,comedy
+41277,"Princess Diaries, The",2001,114,6892,6.0,comedy
+41362,Private Parts,1997,109,9289,6.6,comedy
+41411,"Producers, The",1968,88,8142,7.8,comedy
+41494,Proof of Life,2000,135,9592,6.3,action
+41587,Psycho,1960,108,53962,8.6,other
+41662,Pulp Fiction,1994,168,132745,8.8,drama
+41666,Pump Up the Volume,1990,105,6054,6.8,comedy
+41680,Punch-Drunk Love,2002,95,18169,7.5,comedy
+41684,"Punisher, The",2004,124,9989,6.2,action
+41751,"Purple Rose of Cairo, The",1985,84,5273,7.5,comedy
+41903,"Quatre cents coups, Les",1959,94,6482,8.2,drama
+41993,"Quick and the Dead, The",1995,107,8837,6.1,action
+42005,"Quiet American, The",2002,101,5957,7.4,drama
+42011,"Quiet Man, The",1952,129,7191,7.9,comedy
+42025,Quills,2000,124,9155,7.3,drama
+42035,Quiz Show,1994,133,11316,7.5,drama
+42080,Rabbit-Proof Fence,2002,94,5079,7.7,drama
+42219,Raging Bull,1980,129,26739,8.4,drama
+42237,Raiders of the Lost Ark,1981,115,93511,8.7,action
+42250,Rain Man,1988,133,42562,7.9,comedy
+42276,"Rainmaker, The",1997,135,8620,6.8,drama
+42286,Raising Arizona,1987,94,19991,7.6,comedy
+42336,Ran,1985,160,11981,8.4,action
+42360,Ransom,1996,139,17678,6.6,action
+42410,Rat Race,2001,112,13913,6.5,comedy
+42463,Ravenous,1999,108,5915,6.7,comedy
+42528,Real Genius,1985,108,5778,6.8,comedy
+42543,Reality Bites,1994,94,7860,6.2,comedy
+42555,Rear Window,1954,112,41035,8.7,other
+42565,Rebecca,1940,130,11403,8.3,drama
+42575,Rebel Without a Cause,1955,111,11055,7.8,drama
+42604,"Recruit, The",2003,115,13054,6.6,other
+42632,Red Dragon,2002,124,21089,7.3,other
+42744,Regarding Henry,1991,108,6137,6.5,drama
+42824,"Remains of the Day, The",1993,134,10310,7.8,drama
+42841,Remember the Titans,2000,113,14195,7.4,drama
+42923,"Replacements, The",2000,114,7617,6.2,comedy
+42949,Requiem for a Dream,2000,102,47845,8.4,drama
+42967,Reservoir Dogs,1992,99,69240,8.3,other
+42972,Resident Evil,2002,100,18978,6.2,action
+43090,Return to Me,2000,115,5057,6.9,comedy
+43134,Revenge of the Nerds,1984,90,6007,6.0,comedy
+43339,"Right Stuff, The",1983,193,12907,7.9,drama
+43374,"Ring, The",2002,115,30687,7.4,drama
+43386,Ringu,1998,96,8091,7.4,other
+43391,Rio Bravo,1959,141,7193,8.0,drama
+43440,Rising Sun,1993,129,6504,6.0,action
+43447,Risky Business,1983,98,8622,6.7,comedy
+43484,"River Runs Through It, A",1992,123,7933,7.1,drama
+43530,Road Trip,2000,94,15981,6.3,comedy
+43544,Road to Perdition,2002,117,30526,7.7,drama
+43587,Rob Roy,1995,133,6652,6.8,action
+43623,Robin Hood: Prince of Thieves,1991,155,20286,6.5,action
+43639,RoboCop,1987,103,15974,7.1,action
+43681,"Rock, The",1996,136,46184,7.0,action
+43697,"Rocketeer, The",1991,108,5946,6.0,action
+43716,Rocky,1976,119,22893,7.8,drama
+43718,"Rocky Horror Picture Show, The",1975,98,16737,6.8,comedy
+43719,Rocky II,1979,119,9412,6.3,action
+43742,Roger & Me,1989,91,7674,7.7,comedy
+43799,Roman Holiday,1953,117,9431,8.1,comedy
+43832,Romancing the Stone,1984,105,9986,6.8,action
+43848,Romeo + Juliet,1996,120,22306,6.7,action
+43878,Ronin,1998,121,21982,7.0,action
+43892,"Rookie, The",2002,127,5135,7.2,drama
+43900,"Room with a View, A",1985,117,6369,7.4,comedy
+43919,Rope,1948,80,7916,7.8,other
+43966,Rosemary's Baby,1968,136,12033,7.9,drama
+43968,Rosencrantz & Guildenstern Are Dead,1990,117,5039,7.3,comedy
+44035,Rounders,1998,121,13621,7.2,drama
+44060,Roxanne,1987,107,7414,6.8,comedy
+44076,"Royal Tenenbaums, The",2001,111,31227,7.6,comedy
+44110,Rudy,1993,116,6251,7.2,drama
+44133,"Rules of Attraction, The",2002,110,8552,6.7,comedy
+44134,Rules of Engagement,2000,128,7903,6.3,drama
+44188,Runaway Jury,2003,127,10761,7.1,drama
+44192,"Rundown, The",2003,104,8067,6.5,action
+44210,"Running Man, The",1987,101,11847,6.2,action
+44249,Rush Hour,1998,93,18336,6.7,action
+44250,Rush Hour 2,2001,86,16581,6.5,action
+44258,Rushmore,1998,93,22209,7.7,comedy
+44326,S1m0ne,2002,117,7422,6.3,comedy
+44363,Sabrina,1954,113,5933,7.6,comedy
+44364,Sabrina,1995,127,7547,6.1,comedy
+44554,"Salton Sea, The",2002,107,5070,7.2,drama
+44871,Saturday Night Fever,1977,113,8179,6.6,drama
+44939,Save the Last Dance,2001,112,7613,6.1,drama
+44944,Saved!,2004,92,6504,7.1,comedy
+44949,Saving Private Ryan,1998,170,100267,8.3,action
+44956,Saw,2004,100,17191,7.5,other
+44961,Say Anything...,1989,100,10822,7.6,drama
+45033,Scarface,1983,170,28300,7.9,drama
+45082,Scent of a Woman,1992,157,16312,7.4,drama
+45127,Schindler's List,1993,195,97667,8.8,drama
+45161,"School of Rock, The",2003,108,16452,7.4,comedy
+45215,"Score, The",2001,124,16106,6.8,drama
+45259,Scream,1996,111,43652,7.0,other
+45305,Scrooged,1988,101,8457,6.6,comedy
+45331,Se7en,1995,127,88371,8.4,drama
+45359,Sea of Love,1989,113,5072,6.7,drama
+45362,Seabiscuit,2003,141,11552,7.5,drama
+45386,"Searchers, The",1956,119,10211,8.2,drama
+45389,Searching for Bobby Fischer,1993,110,7771,7.6,drama
+45448,Secondhand Lions,2003,120,5543,7.4,comedy
+45517,Secret Window,2004,96,13260,6.3,drama
+45542,Secretary,2002,104,9481,7.2,comedy
+45551,Secrets & Lies,1996,136,7747,7.9,comedy
+45697,Sen to Chihiro no kamikakushi,2001,125,24253,8.6,animation
+45728,Sense and Sensibility,1995,136,13904,7.7,comedy
+45793,Serendipity,2001,90,10795,6.6,comedy
+45831,Serpico,1973,129,6327,7.5,drama
+45939,Seven Years in Tibet,1997,139,9426,6.6,drama
+46013,"Sex, Lies, and Videotape",1989,100,7461,7.1,drama
+46041,Sexy Beast,2000,89,7462,7.0,comedy
+46110,Shadow of a Doubt,1943,108,5680,8.1,other
+46117,Shadow of the Vampire,2000,87,8366,6.8,comedy
+46142,Shaft,2000,99,13742,6.0,action
+46164,Shakespeare in Love,1998,122,41999,7.5,comedy
+46181,Shallow Grave,1994,93,9401,7.4,drama
+46183,Shallow Hal,2001,113,13217,6.1,comedy
+46194,Shane,1953,118,5603,7.8,drama
+46201,Shanghai Knights,2003,114,7279,6.3,action
+46202,Shanghai Noon,2000,110,12258,6.7,action
+46266,Shaun of the Dead,2004,99,18685,7.9,comedy
+46269,"Shawshank Redemption, The",1994,142,149494,9.1,drama
+46401,Shi mian mai fu,2004,118,8700,7.6,action
+46408,Shichinin no samurai,1954,206,32141,8.9,action
+46435,Shine,1996,105,12425,7.6,drama
+46445,"Shining, The",1980,146,50908,8.3,other
+46465,"Shipping News, The",2001,111,7695,6.9,drama
+46580,Short Cuts,1993,190,8165,7.6,drama
+46648,Shrek,2001,90,65146,8.0,animation
+46649,Shrek 2,2004,92,27236,7.8,animation
+46746,Sideways,2004,123,17051,8.0,comedy
+46826,Signs,2002,108,40285,7.1,drama
+46840,"Silence of the Lambs, The",1991,118,92060,8.5,other
+46941,Silverado,1985,127,6118,7.0,action
+46967,"Simple Plan, A",1998,121,15398,7.6,drama
+46980,Sin City,2005,124,23473,8.3,action
+47035,Singin' in the Rain,1952,103,20585,8.5,comedy
+47055,Singles,1992,99,5897,6.6,comedy
+47151,Siu lam juk kau,2001,89,6680,7.3,action
+47178,Sixteen Candles,1984,93,8690,6.9,comedy
+47185,"Sixth Sense, The",1999,107,96987,8.2,drama
+47195,"Sjunde inseglet, Det",1957,92,9622,8.4,drama
+47285,Sky Captain and the World of Tomorrow,2004,106,12579,6.5,action
+47336,Slap Shot,1977,123,5509,7.2,action
+47392,Sleeper,1973,89,5571,7.4,comedy
+47393,Sleepers,1996,147,17896,7.0,drama
+47396,Sleeping Beauty,1959,75,5843,7.4,animation
+47412,Sleepless in Seattle,1993,105,19224,6.7,comedy
+47424,Sleepy Hollow,1999,105,38857,7.4,other
+47440,Sliding Doors,1998,99,11954,6.9,comedy
+47453,Sling Blade,1996,135,20361,8.0,drama
+47517,Small Time Crooks,2000,94,6218,6.5,comedy
+47581,Smoke,1995,112,8111,7.4,comedy
+47593,Smokey and the Bandit,1977,96,5237,6.3,action
+47638,Snatch.,2000,102,44785,7.9,comedy
+47639,Sneakers,1992,126,11994,7.0,action
+47678,Snow White and the Seven Dwarfs,1937,83,14341,7.8,animation
+47718,So I Married an Axe Murderer,1993,93,6991,6.2,comedy
+47845,Solaris,2002,99,11808,6.3,drama
+47927,Solyaris,1972,165,5225,7.7,drama
+47954,Some Like It Hot,1959,120,25369,8.4,comedy
+48006,Something's Gotta Give,2003,128,11275,6.8,comedy
+48247,"Sound of Music, The",1965,174,20641,7.8,drama
+48287,South Park: Bigger Longer & Uncut,1999,81,33188,7.6,animation
+48342,Space Cowboys,2000,130,11887,6.4,drama
+48362,Spaceballs,1987,96,20054,6.7,comedy
+48392,"Spanish Prisoner, The",1997,110,7433,7.4,drama
+48415,Spartacus,1960,198,17084,8.0,action
+48418,Spartan,2004,106,5589,6.9,drama
+48465,Speed,1994,116,32979,7.1,action
+48487,Spellbound,1945,111,5108,7.6,drama
+48508,Spider,2002,94,5193,6.8,drama
+48517,Spider-Man,2002,121,63228,7.4,action
+48518,Spider-Man 2,2004,127,40256,7.9,action
+48597,Splash,1984,111,9428,6.3,comedy
+48689,Spy Game,2001,126,16736,7.0,action
+48691,Spy Kids,2001,88,7400,6.2,action
+48699,"Spy Who Loved Me, The",1977,123,8130,6.9,action
+48796,Stagecoach,1939,96,5646,8.0,action
+48817,Stalag 17,1953,116,7153,8.2,drama
+48842,Stand by Me,1986,89,30805,8.0,drama
+48895,Star Trek III: The Search for Spock,1984,105,9808,6.2,action
+48896,Star Trek IV: The Voyage Home,1986,136,11647,7.1,comedy
+48898,Star Trek VI: The Undiscovered Country,1991,113,10367,6.9,action
+48900,Star Trek: First Contact,1996,106,25046,7.3,action
+48901,Star Trek: Generations,1994,118,12651,6.2,action
+48902,Star Trek: Insurrection,1998,103,13395,6.3,action
+48903,Star Trek: Nemesis,2002,116,11785,6.5,action
+48906,Star Trek: The Wrath of Khan,1982,116,16333,7.6,action
+48908,Star Wars,1977,125,134640,8.8,action
+48909,Star Wars: Episode I - The Phantom Menace,1999,133,84488,6.4,action
+48910,Star Wars: Episode II - Attack of the Clones,2002,120,63889,7.0,action
+48911,Star Wars: Episode V - The Empire Strikes Back,1980,129,103706,8.8,action
+48912,Star Wars: Episode VI - Return of the Jedi,1983,135,82471,8.1,action
+48939,Stargate,1994,130,17520,6.4,action
+48951,Starman,1984,115,5541,6.8,drama
+48970,Starship Troopers,1997,129,32618,6.7,action
+48972,Starsky & Hutch,2004,101,13529,6.3,action
+48996,State and Main,2000,105,6995,7.0,comedy
+49009,"Station Agent, The",2003,88,7112,8.1,drama
+49064,Steel Magnolias,1989,119,6430,6.8,comedy
+49110,Stepmom,1998,124,7470,6.1,comedy
+49151,Stigmata,1999,103,14062,6.0,drama
+49185,"Sting, The",1973,129,23678,8.4,comedy
+49191,Stir of Echoes,1999,99,11433,7.0,other
+49335,"Strada, La",1954,115,5012,8.2,drama
+49348,"Straight Story, The",1999,112,14679,8.1,drama
+49384,Strange Days,1995,145,11869,6.9,action
+49447,Strangers on a Train,1951,103,10624,8.3,drama
+49524,"Streetcar Named Desire, A",1951,125,9623,8.1,drama
+49544,Strictly Ballroom,1992,94,6026,7.3,comedy
+49575,Stripes,1981,106,7406,6.8,comedy
+49614,Stuart Little,1999,81,8009,6.0,comedy
+49799,Suicide Kings,1997,106,6117,7.0,comedy
+49820,"Sum of All Fears, The",2002,123,15835,6.6,action
+49857,Summer of Sam,1999,142,8151,6.5,drama
+49925,Sunset Blvd.,1950,115,16149,8.6,drama
+49972,Super Size Me,2004,100,9487,7.7,documentary
+49976,Super Troopers,2001,100,7728,6.3,comedy
+50008,Superman,1978,151,17327,7.1,action
+50010,Superman II,1980,127,10085,6.5,action
+50267,"Sweet Hereafter, The",1997,112,9433,7.9,drama
+50305,Sweet and Lowdown,1999,95,5811,7.2,comedy
+50329,Swimming Pool,2003,103,6936,6.9,drama
+50356,Swingers,1996,96,15827,7.6,comedy
+50388,Swordfish,2001,99,20455,6.2,action
+50554,"Tailor of Panama, The",2001,109,5997,6.1,comedy
+50652,"Talented Mr. Ripley, The",1999,139,25974,7.0,drama
+50851,Tarzan,1999,88,10672,7.1,animation
+50942,Taxi,1998,86,6191,6.7,action
+50945,Taxi Driver,1976,110,47873,8.5,drama
+50995,Team America: World Police,2004,98,13104,7.3,action
+51002,Tears of the Sun,2003,121,8690,6.2,action
+51144,"Ten Commandments, The",1956,220,8895,7.7,drama
+51241,"Terminal, The",2004,128,15809,7.1,comedy
+51243,Terminator 2: Judgment Day,1991,154,77614,8.2,action
+51244,Terminator 3: Rise of the Machines,2003,109,32111,6.9,action
+51246,"Terminator, The",1984,108,59772,7.9,action
+51252,Terms of Endearment,1983,132,6050,7.3,comedy
+51385,"Texas Chain Saw Massacre, The",1974,75,10224,7.0,other
+51488,That Thing You Do!,1996,108,11701,6.6,comedy
+51533,Thelma & Louise,1991,129,18075,7.3,action
+51575,There's Something About Mary,1998,134,46343,7.2,comedy
+51618,They Live,1988,93,5131,6.5,action
+51683,"Thin Red Line, The",1998,170,25637,7.2,action
+51689,"Thing, The",1982,109,17071,7.8,action
+51698,Things to Do in Denver When You're Dead,1995,115,5703,6.6,drama
+51711,"Third Man, The",1949,93,18394,8.5,other
+51724,Thirteen,2003,100,8652,7.1,drama
+51726,Thirteen Days,2000,145,10926,7.4,drama
+51730,"Thirteenth Floor, The",1999,100,7712,6.4,other
+51766,This Is Spinal Tap,1984,82,20576,8.0,comedy
+51808,"Thomas Crown Affair, The",1999,113,17220,6.7,comedy
+51894,Three Kings,1999,114,31503,7.3,action
+51923,"Three Musketeers, The",1993,105,6624,6.0,action
+51970,Three to Tango,1999,98,5719,6.0,comedy
+52041,Thunderball,1965,130,8226,6.8,action
+52165,Tigerland,2000,100,5945,7.2,drama
+52213,Time Bandits,1981,110,9434,6.9,comedy
+52254,"Time to Kill, A",1996,149,15577,6.9,drama
+52289,Tin Cup,1996,135,7521,6.2,comedy
+52345,Titan A.E.,2000,94,9373,6.4,action
+52348,Titanic,1997,194,90195,6.9,drama
+52364,Titus,1999,162,5465,7.2,drama
+52383,To Catch a Thief,1955,106,6053,7.4,romance
+52387,To Die For,1995,110,7737,6.7,comedy
+52407,To Kill a Mockingbird,1962,129,30139,8.5,drama
+52480,Todo sobre mi madre,1999,101,13497,7.9,comedy
+52586,Tombstone,1993,130,16618,7.4,action
+52597,Tommy Boy,1995,97,8875,6.5,comedy
+52609,Tomorrow Never Dies,1997,119,19397,6.4,action
+52621,Tonari no Totoro,1988,86,5245,8.1,animation
+52693,Tootsie,1982,119,13802,7.5,comedy
+52699,Top Gun,1986,110,32410,6.5,action
+52706,Top Secret!,1984,90,8089,6.8,comedy
+52808,Total Recall,1990,113,26486,7.2,action
+52838,Touch of Evil,1958,106,11745,8.4,other
+52907,"Towering Inferno, The",1974,165,5386,6.4,action
+52930,Toy Story,1995,81,46019,7.9,animation
+52931,Toy Story 2,1999,92,40941,8.1,animation
+52972,Trading Places,1983,118,11293,7.3,comedy
+52974,Traffic,2000,147,41268,7.8,drama
+53024,Training Day,2001,120,22776,7.3,drama
+53027,Trainspotting,1996,94,51887,8.0,drama
+53059,"Transformers: The Movie, The",1986,85,5802,6.6,action
+53062,"Transporter, The",2002,92,9150,6.0,action
+53166,"Treasure of the Sierra Madre, The",1948,126,10470,8.4,action
+53201,Tremors,1990,96,9657,6.9,comedy
+53325,"Triplettes de Belleville, Les",2003,78,6618,7.7,animation
+53350,Trois couleurs: Bleu,1993,100,9517,7.8,drama
+53351,Trois couleurs: Rouge,1994,99,10385,8.1,drama
+53380,Tron,1982,96,9084,6.4,action
+53437,Troy,2004,162,33979,7.1,action
+53458,True Crime,1999,127,5116,6.3,drama
+53465,True Lies,1994,141,31011,7.0,action
+53469,True Romance,1993,121,25896,7.7,action
+53482,"Truman Show, The",1998,103,62434,7.7,comedy
+53489,"Truth About Cats & Dogs, The",1996,97,7714,6.5,comedy
+53512,Trzy kolory: Bialy,1994,91,6225,7.6,comedy
+53713,Twelve Monkeys,1995,129,62301,7.9,drama
+53755,Twin Peaks: Fire Walk with Me,1992,135,6927,6.5,drama
+53919,U Turn,1997,125,10306,6.5,drama
+53925,U-571,2000,116,15792,6.5,action
+53929,U.S. Marshals,1998,131,10315,6.1,action
+53940,UHF,1989,97,6384,6.6,comedy
+54159,"Unbearable Lightness of Being, The",1988,171,5228,7.4,drama
+54171,Unbreakable,2000,106,35842,7.1,drama
+54186,Uncle Buck,1989,100,6716,6.3,comedy
+54234,Under Siege,1992,98,9413,6.1,action
+54267,Undercover Brother,2002,85,5138,6.0,action
+54283,Underground,1995,167,5330,7.9,comedy
+54366,"Unendliche Geschichte, Die",1984,94,6742,7.2,other
+54371,Unfaithful,2002,125,8713,6.6,drama
+54386,Unforgiven,1992,131,30868,8.1,drama
+54508,"Untergang, Der",2004,156,8039,8.4,drama
+54519,"Untouchables, The",1987,119,31587,7.9,drama
+54665,"Usual Suspects, The",1995,106,103854,8.7,other
+54758,Vacation,1983,98,8559,7.1,comedy
+54907,Vanilla Sky,2001,136,31250,6.9,drama
+54941,Varsity Blues,1999,100,7974,6.0,drama
+55006,Velvet Goldmine,1998,124,5041,6.6,drama
+55158,Vertigo,1958,129,33875,8.5,drama
+55405,"Village, The",2004,108,25729,6.6,drama
+55474,"Violon rouge, Le",1998,140,6995,7.8,drama
+55491,"Virgin Suicides, The",1999,90,17524,7.2,drama
+55878,Wag the Dog,1997,97,16434,7.0,comedy
+55912,Waiting for Guffman,1996,84,7337,7.6,comedy
+55934,Waking Life,2001,101,6999,7.5,animation
+55935,Waking Ned,1998,92,7232,7.3,comedy
+55963,"Walk to Remember, A",2002,101,7124,6.8,drama
+55994,Wall Street,1987,125,11269,7.2,drama
+56079,"War of the Roses, The",1989,116,7714,6.5,comedy
+56083,WarGames,1983,114,11474,6.9,drama
+56243,"Way of the Gun, The",2000,120,7750,6.5,other
+56250,Wayne's World,1992,95,16677,6.8,comedy
+56275,We Were Soldiers,2002,143,14939,7.1,action
+56330,"Wedding Singer, The",1998,95,19487,6.8,comedy
+56384,Weird Science,1985,94,7867,6.1,comedy
+56415,Welcome to the Dollhouse,1995,88,5851,7.4,comedy
+56470,West Side Story,1961,151,12931,7.8,drama
+56521,Whale Rider,2002,101,10252,8.0,drama
+56531,What About Bob?,1991,99,8831,6.6,comedy
+56544,What Dreams May Come,1998,113,11706,6.3,drama
+56561,What Lies Beneath,2000,130,20584,6.6,drama
+56579,What Women Want,2000,127,20138,6.4,comedy
+56600,What's Eating Gilbert Grape,1993,118,16345,7.6,comedy
+56644,When Harry Met Sally...,1989,96,24492,7.7,comedy
+56711,Where Eagles Dare,1968,158,5415,7.6,action
+56734,Where the Heart Is,2000,120,5042,6.4,comedy
+56760,While You Were Sleeping,1995,103,13035,6.5,comedy
+56844,White Men Can't Jump,1992,118,7861,6.2,action
+56893,Who Framed Roger Rabbit,1988,99,21433,7.4,animation
+56919,Who's Afraid of Virginia Woolf?,1966,131,7060,8.1,drama
+56944,"Whole Nine Yards, The",2000,98,17678,6.6,comedy
+57052,"Wild Bunch, The",1969,179,10550,8.2,action
+57114,Wild Things,1998,115,17672,6.6,other
+57136,Wild at Heart,1990,124,9549,7.0,comedy
+57188,Willow,1988,126,10529,6.8,action
+57191,Willy Wonka & the Chocolate Factory,1971,100,16487,7.6,comedy
+57375,"Witches of Eastwick, The",1987,118,8896,6.3,comedy
+57416,Witness,1985,112,14479,7.6,drama
+57418,Witness for the Prosecution,1957,118,5112,8.3,drama
+57435,"Wizard of Oz, The",1939,112,38386,8.3,other
+57452,Wo hu cang long,2000,120,52198,8.2,action
+57564,Wonder Boys,2000,111,15668,7.6,comedy
+57627,Working Girl,1988,115,8934,6.6,comedy
+57636,"World According to Garp, The",1982,136,5668,7.1,comedy
+57642,"World Is Not Enough, The",1999,128,24205,6.3,action
+57747,Wyatt Earp,1994,212,5248,6.1,other
+57763,"X Files, The",1998,121,18314,6.7,action
+57769,X-Men,2000,104,45332,7.3,action
+57771,X2,2003,133,38191,7.9,action
+58060,Ying xiong,2002,93,24128,8.1,action
+58078,Yojimbo,1961,75,8968,8.4,action
+58112,You Can Count on Me,2000,111,7630,7.8,drama
+58142,You Only Live Twice,1967,117,8252,6.8,action
+58184,You've Got Mail,1998,119,20053,6.2,comedy
+58217,Young Frankenstein,1974,106,22281,8.0,comedy
+58222,Young Guns,1988,102,8104,6.4,action
+58690,Zoolander,2001,89,18277,6.1,comedy
+58726,Zulu,1964,138,5049,7.7,action
+58779,eXistenZ,1999,97,14742,6.7,drama
