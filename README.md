@@ -1,6 +1,6 @@
 # Sahibinden D2D Event Live Coding Session: Angular + NestJS Monorepo
 
-This is jus a preview app. It is unfinished and just a glimpse of how Angular and NestJS can work together.
+This is a preview app. It is unfinished and just a glimpse of how Angular and NestJS can work together.
 
 ## Development
 
@@ -9,7 +9,7 @@ This is jus a preview app. It is unfinished and just a glimpse of how Angular an
 - Run `npm install` in terminal
 - Run `npm start` in terminal
 - API docs available at `http://localhost:3333/docs`
-- Frontend app runs at `http://localhost:4200``
+- Frontend app runs at `http://localhost:4200`
 
 ## Production Build
 
