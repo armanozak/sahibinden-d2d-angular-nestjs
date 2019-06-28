@@ -1,0 +1,9 @@
+.full-width-table {
+  width: 100%;
+}
+
+.table-container {
+  margin: 56px 56px 0;
+  overflow: auto;
+  height: calc(100% - 172px);
+}

@@ -1,0 +1,21 @@
+{
+  "npmScope": "fullstack",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "fullstack-e2e": {
+      "tags": []
+    },
+    "fullstack": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    }
+  }
+}
